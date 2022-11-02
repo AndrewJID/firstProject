@@ -26,6 +26,7 @@ public class ThinkNumber {
                 } else {
                     System.out.println("Guesssed Number is higher");
                     System.out.println("Thank You");
+                    System.out.println("Vivek status");
                 }
             }
 
