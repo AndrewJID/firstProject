@@ -19,5 +19,6 @@ public class StudentMarks {
 
         }
         System.out.println("Total Marks = "+total);
+        System.out.println("Thank You");
     }
 }
